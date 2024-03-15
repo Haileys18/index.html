@@ -1,7 +1,21 @@
 body{
-  background-color:  beige;
-  color: saddlebrown;
+  background-color:  	#ECFFDC;
+  color: #40826D;
 }
 p{
   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.banner{
+  border: 3px solid 	white;
+   border-radius: 70%;
+  background-color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  font-size: 18px;
+  font-family: papyrus;
+  outline: groove 2px #ffffff;
+  outline-offset: 1px;
+  text-shadow: 3px #000000;
+  box-shadow: 5px 2px 5px 5px white;
+   background-image: repeating-linear-gradient( #9FE2BF, white);
 }
